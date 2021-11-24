@@ -1,0 +1,10 @@
+body{
+    padding:25px;
+}
+#sec1{
+    width:300px;
+    border: 2px solid grey;
+}
+h1{
+    font-family: sans-serif;
+}
